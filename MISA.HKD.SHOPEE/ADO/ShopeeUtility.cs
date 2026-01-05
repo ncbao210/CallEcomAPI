@@ -29,7 +29,7 @@ namespace MISA.HKD.SHOPEE.ADO
             _shopeeConfig = new ShopeeConfig();
         }
 
-        private readonly bool isV2 = true;
+        private readonly bool isV2 = false;
 
         /// <summary>
         /// Lấy partnerID của shopee
